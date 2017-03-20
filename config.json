@@ -1,0 +1,10 @@
+{
+	"launcher" : "node bot.js",
+	"prefix" : "$",
+	"token" : "MjU1ODMzNDQ3MzM0MDE5MDcz.CyjXOQ.xEbjk4BSbCmGlksNdHFwkRZoYuo",
+	"customPath" : "./customResponses.json",
+	"rpPath" : "./rpFile.json",
+	"stuffPath" : "./stuffFile.json",
+	"emoteCookie" : "<:Wcookies:280428015333408768>",
+	"chatChannels" : ["bot"]
+}
